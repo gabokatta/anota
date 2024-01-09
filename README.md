@@ -1,2 +1,2 @@
-# i-mage
-Image Manipulation CLI Tool
+# anotá
+Simple Note Taking CLI Tool
