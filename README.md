@@ -1,2 +1,2 @@
 # anotá
-Simple Note Taking CLI Tool
+Note Taking CLI Tool
